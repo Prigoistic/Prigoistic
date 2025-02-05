@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prigoistic
-- 👀 I’m interested in developing artificial intelligence and leanring about neural networkds
+- 👀 I’m interested in developing artificial intelligence and learning about neural networks
 - 🌱 I’m currently learning frontend and java
 - 💞️ I’m looking to collaborate on AI based projects
 - 📫 How to reach me through my email id priyamghosh9753@gmail.com
