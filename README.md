@@ -20,6 +20,7 @@ Hello there! I'm **@Prigoistic**, and I'm thrilled to have you here.
   - **Fine-tuning techniques**
   - Working with **Large Language Models (LLMs)**
   - Deep learning methodologies
+  - Reinformcement Learning
 
 ## GitHub Stats
 
