@@ -24,7 +24,8 @@ Hello there! I'm **@Prigoistic**, and I'm thrilled to have you here.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prigoistic&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Prigoistic&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Prigoistic&theme=radical)
+
 
 ## Fun Fact
 
