@@ -1,12 +1,12 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello there! I'm **@Prigoistic**, and I'm thrilled to have you here.
+Hello there! I'm **Priyam**, a 19yr old STEM student and a full time AI Researcher.
 
 ## About Me
 
-- **Interests**: I have a passion for developing **artificial intelligence** and diving deep into the world of **neural networks**. The possibilities are endless, and I'm excited to explore them!
+- **Interests**: Well i like to develop and research about the fundamentals of AI Architectures and time to time try to publish something ground-breaking.
 
-- **Current Learning**: Right now, I'm sharpening my skills in **frontend development** and **Java**. Always eager to learn more!
+- **Current Learning**: Right now, im sharpening my skill in **Backend Devs** currently learning **Java (Springboot)** and more Agentic frameworks.
 
 - **Collaboration**: I'm on the lookout for opportunities to collaborate on **AI-based projects**. If you're working on something innovative, let's connect!
 
@@ -14,9 +14,9 @@ Hello there! I'm **@Prigoistic**, and I'm thrilled to have you here.
 
 - Proficient in the **MERN stack**
 - Knowledgeable in **AIML**, including:
-  - **Multi-Layer Perceptron (MLP)**
-  - **Fine-tuning techniques**
-  - Working with **Large Language Models (LLMs)**
+  - **NLP and Generative AI**
+  - **Fine-tuning techniques in unsupervised environemtns**
+  - Building with **Large Language Models (LLMs)**
   - Deep learning methodologies
   - Reinforcement Learning
 
