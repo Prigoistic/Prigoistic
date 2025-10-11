@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello there! I'm **Priyam**, a 19yr old STEM student and a full time AI Researcher.
+Hello there! I'm **Priyam**, a 20yr old STEM student and a full time AI Researcher.
 
 ## About Me
 
