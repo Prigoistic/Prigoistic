@@ -1,100 +1,98 @@
-# Welcome to My GitHub Profile! 👋
+<!-- Profile Header -->
+<h1 align="center"> Hey, I'm <span style="color:#58a6ff;">Priyam</span></h1>
+<h3 align="center">AI Researcher • Backend & Systems Developer • Maths Enthusiast</h3>
 
-Hello there! I'm **Priyam**, a 20yr old STEM student and a full time AI Researcher.
-
-## About Me
-
-- **Interests**: Well i like to develop and research about the fundamentals of AI Architectures and time to time try to publish something ground-breaking.
-
-- **Current Learning**: Right now, im sharpening my skill in **Backend Devs** currently learning **Java (Springboot)** and more Agentic frameworks.
-
-- **Collaboration**: I'm on the lookout for opportunities to collaborate on **AI-based projects**. If you're working on something innovative, let's connect!
-
-## Skills
-
-- Proficient in the **MERN stack**
-- Knowledgeable in **AIML**, including:
-  - **NLP and Generative AI**
-  - **Fine-tuning techniques in unsupervised environemtns**
-  - Building with **Large Language Models (LLMs)**
-  - Deep learning methodologies
-  - Reinforcement Learning
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prigoistic&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Prigoistic&theme=radical)
-
-
-## Fun Fact
-
-I had the incredible opportunity to intern under **NASA** for the **Artemis 1** mission in 2019! 🚀 It was an experience that fueled my passion for technology and exploration.
-
-## Connect with Me
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/priyam-ghosh-252076231/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://youtube.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=600&color=58A6FF&center=true&vCenter=true&width=450&lines=Spatial+Intelligence+%7C+Backend+Systems;Rust+%7C+Java+%7C+Python+%7C+Go;Building+from+First+Principles" alt="Typing SVG" />
 </p>
-
-## Languages and Tools
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/3/3f4a10e4b55e69a9e6d5e1d8c0e3c3a9b4c0f3e7d.png" alt="Three.js" width="40" height="40"/>
-  </a>
-  <a href="https://ar-js-org.github.io/AR.js-Docs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/AR-js-org/AR.js/master/images/logo.png" alt="AR.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  </a>
-</p>
-
-## Reach Out
-
-Feel free to contact me via email at [priyamghosh9753@gmail.com](mailto:priyamghosh9753@gmail.com). I’d love to hear from you!
-
-## Pronouns
-
-He/Him 😄
 
 ---
 
-Thanks for stopping by! Let's create something amazing together! ✨
+## 💫 About Me
+🔭 Working on **Spatial Intelligence** and **Self-Learning Models**  
+🌱 Currently mastering **Backend Systems** in **Java (Spring Boot)** and **Rust**  
+🧠 Exploring **Agentic Architectures** & **AI reasoning frameworks**  
+💬 Ask me about **LLMs**, **System Design**, and **Backend Internals**  
+⚡ Fun fact: I sometimes sketch neural architectures like blueprints before coding 🧩
 
-<!---
-Prigoistic/Prigoistic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyam-ghosh-252076231/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:priyamghosh9753@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/PriyamG64932451"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="https://reddit.com/u/Possible-Bite7639"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 💡 Languages & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚙️ Backend & Infra
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🧠 AI & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
+![CUDA](https://img.shields.io/badge/CUDA-%23000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+
+### 🗃️ Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prigoistic&theme=tokyonight&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Prigoistic&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prigoistic&theme=tokyonight&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🛰️ **NASA Artemis I Intern (2019)** – Learned systems thinking from the cosmos.  
+- 🧠 Building **Ananta**, a self-learning reasoning LLM.  
+- ⚙️ Exploring **Rust + Go** for low-latency backend systems.  
+- 🧩 Passionate about **HLD/LLD design**, **compiler internals**, and **AI systems**.
+
+---
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prigoistic&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views"/>
+</p>
+
+<p align="center"><i>“Keep building. Keep questioning. Keep creating.”</i></p>
