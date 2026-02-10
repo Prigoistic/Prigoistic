@@ -2,18 +2,15 @@
 <h1 align="center"> Hey, I'm <span style="color:#58a6ff;">Priyam</span></h1>
 <h3 align="center">AI Researcher • Backend & Systems Developer • Maths Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=600&color=58A6FF&center=true&vCenter=true&width=450&lines=Spatial+Intelligence+%7C+Backend+Systems;Rust+%7C+Java+%7C+Python+%7C+Go;Building+from+First+Principles" alt="Typing SVG" />
-</p>
 
 ---
 
-## 💫 About Me
-🔭 Working on **Spatial Intelligence** and **Self-Learning Models**  
-🌱 Currently mastering **Backend Systems** in **Java (Spring Boot)** and **Rust**  
-🧠 Exploring **Agentic Architectures** & **AI reasoning frameworks**  
-💬 Ask me about **LLMs**, **System Design**, and **Backend Internals**  
-⚡ Fun fact: I sometimes sketch neural architectures like blueprints before coding 🧩
+## About Me
+- Working on **Spatial Intelligence** and **Self-Learning Models**  
+- Currently mastering **Backend Systems** in **Java (Spring Boot)** and **Rust**  
+- Exploring **Agentic Architectures** & **AI reasoning frameworks**  
+- Ask me about **LLMs**, **System Design**, and **Backend Internals**  
+- Fun fact: I sometimes sketch neural architectures like blueprints before coding 
 
 ---
 
@@ -32,11 +29,9 @@
 
 ### 💡 Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### ⚙️ Backend & Infra
