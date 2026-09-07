@@ -1,6 +1,6 @@
 building at the intersection of neuroscience and machine learning.
 
-founder at [Metacognition](https://getmetacognition.com). 
+co-founder at [Metacognition](https://getmetacognition.com). 
 prev - ml & system architect at NASA , worked on Artemis 1 program under Orion subsystems and Callisto
 
 always keen to understand what drives us to think
